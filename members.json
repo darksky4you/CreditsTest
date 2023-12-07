@@ -1,0 +1,29 @@
+{
+  "teams": [
+    {
+      "name": "Jody Yuantoro",
+      "photo": "https://example.com/photos/jody.jpg",
+      "title": "Founder, Lead Developer & UI Designer"
+    },
+    {
+      "name": "Firman Yanuar",
+      "photo": "https://example.com/photos/firman.jpg",
+      "title": "UI & UX Designer"
+    },
+    {
+      "name": "Ardika Gymnastiar",
+      "photo": "https://example.com/photos/ardika.jpg",
+      "title": "Project Manager"
+    },
+    {
+      "name": "Eky Zakariah",
+      "photo": "https://example.com/photos/eky.jpg",
+      "title": "Frontend Developer"
+    },
+    {
+      "name": "Wisnu Prabowo",
+      "photo": "https://example.com/photos/wisnu.jpg",
+      "title": "Backend Developer"
+    }
+  ]
+}
