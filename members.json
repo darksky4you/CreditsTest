@@ -2,27 +2,27 @@
   "teams": [
     {
       "name": "Jody Yuantoro",
-      "photo": "https://example.com/photos/jody.jpg",
+      "photo": "https://github.com/darksky4you/CreditsTest/blob/main/img/img1.jpg",
       "title": "Founder, Lead Developer & UI Designer"
     },
     {
       "name": "Firman Yanuar",
-      "photo": "https://example.com/photos/firman.jpg",
+      "photo": "https://github.com/darksky4you/CreditsTest/blob/main/img/img2.jpg",
       "title": "UI & UX Designer"
     },
     {
       "name": "Ardika Gymnastiar",
-      "photo": "https://example.com/photos/ardika.jpg",
+      "photo": "https://github.com/darksky4you/CreditsTest/blob/main/img/img3.jpg",
       "title": "Project Manager"
     },
     {
       "name": "Eky Zakariah",
-      "photo": "https://example.com/photos/eky.jpg",
+      "photo": "https://github.com/darksky4you/CreditsTest/blob/main/img/img4.jpg",
       "title": "Frontend Developer"
     },
     {
       "name": "Wisnu Prabowo",
-      "photo": "https://example.com/photos/wisnu.jpg",
+      "photo": "https://github.com/darksky4you/CreditsTest/blob/main/img/img5.jpg",
       "title": "Backend Developer"
     }
   ]
